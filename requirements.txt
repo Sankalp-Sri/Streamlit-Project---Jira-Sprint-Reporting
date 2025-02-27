@@ -1,0 +1,12 @@
+pandas
+numpy
+oauth2client
+oauthlib
+gspread
+python-dotenv
+streamlit
+matplotlib
+seaborn
+plotly
+
+-e .
