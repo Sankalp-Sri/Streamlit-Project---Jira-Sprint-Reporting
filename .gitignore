@@ -1,0 +1,10 @@
+env_streamlit_sprint/
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
++.env
+*.venv/
+*.log
+*.csv
