@@ -1,0 +1,12 @@
+[server]
+headless = true
+port = 8501
+
+
+[theme]
+base = "light"  # Set to either "light" or "dark"
+primaryColor = "#1B263B"  # Define custom primary color
+backgroundColor = "#FFF7F7"  # Define custom background color
+secondaryBackgroundColor="#ECECEC"
+textColor = "#4A4A4A"  # Define the text color
+font = "sans serif"  # Font family
